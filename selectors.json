@@ -1,7 +1,7 @@
 {
-  "status": "//div[contains(@class, '_5pbx')]",
+  "status": ".//div[contains(@Class, '_5pbx')]",
   "sections_bar": "//*[@class='_3cz'][1]/div[2]/div[1]",
-  "status_exc": ".//div[@class='userContent']",
+  "status_exc": ".//div[@Class='userContent']",
   "temp": ".//div[@class='_3x-2']",
   "title": ".//span[@class='fwb fcg']",
   "title_exc1": ".//span[@class='fcg']",
